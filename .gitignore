@@ -1,0 +1,30 @@
+# vim stuff
+*.swp
+
+# emacs stuff
+*~
+
+# latex stuff
+*.aux
+*.lof
+*.lot
+*.fls
+*.out
+*.toc
+
+# latex indexes
+*.idx
+*.ilg
+*.ind
+*.ist
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.brf
+*.lol
+
+# latex dvi
+*.dvi
+

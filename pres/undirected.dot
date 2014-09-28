@@ -1,0 +1,15 @@
+graph G {
+  rankdir=LR;
+  node [style=filled,color=darkgreen,fillcolor=springgreen];
+  Cardiff; Glasgow; Crewe; Birmingham; Edinburgh; Newcastle; London;
+  {rank=same; Birmingham Crewe}
+  {rank=same; London Newcastle}
+  edge [color=navy,fontcolor=navy];
+  Cardiff    -- Birmingham
+  Birmingham -- Crewe
+  Crewe      -- Glasgow
+  Edinburgh  -- Newcastle
+  Newcastle  -- London
+  Glasgow    -- Edinburgh
+  Birmingham -- London
+}

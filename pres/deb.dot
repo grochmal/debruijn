@@ -1,0 +1,21 @@
+digraph DB {
+  layout=circo;
+  node [style=filled,color=darkgreen,fillcolor=aquamarine];
+  edge [splines=curved,overlap=false,color=darkgreen];
+  ABB -> BAB
+  AAA -> BAA
+  ABA -> BAB
+  BAA -> ABA
+  BAA -> BBA
+  BBB -> ABB
+  AAB -> BAA
+  BBA -> BBB
+  AAA -> AAA
+  BBA -> ABB
+  AAB -> AAA
+  BAB -> ABA
+  BAB -> BBA
+  ABB -> AAB
+  ABA -> AAB
+  BBB -> BBB
+}

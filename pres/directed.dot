@@ -1,0 +1,12 @@
+digraph D {
+  rankdir=LR;
+  node [style=filled,color=darkgreen,fillcolor=springgreen];
+  Glasgow; Edinburgh; Newcastle; London; Crewe; Birmingham;
+  edge [color=navy,fontcolor=navy];
+  Glasgow    -> Edinburgh
+  Edinburgh  -> Newcastle
+  Newcastle  -> London
+  Glasgow    -> Crewe
+  Crewe      -> Birmingham
+  Birmingham -> London
+}
