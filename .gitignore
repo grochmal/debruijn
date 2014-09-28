@@ -4,6 +4,9 @@
 # emacs stuff
 *~
 
+# generic log catcher
+*.log
+
 # latex stuff
 *.aux
 *.lof
@@ -25,6 +28,11 @@
 *.brf
 *.lol
 
-# latex dvi
+# latex beamer
+*.nav
+*.snm
+
+# latex dvi and pdf
 *.dvi
+*.pdf
 

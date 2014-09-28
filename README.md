@@ -9,12 +9,12 @@ The images for the section on Bridges of Konigsberg are:
 * Konigsberg bridges by Bogdan Giusca.
 
   Available under the GNU Free Documentation License at:
-  http://en.wikipedia.org/wiki/File:Konigsberg_bridges.png
+  <http://en.wikipedia.org/wiki/File:Konigsberg_bridges.png>
 
 * Konigsburg graph by Booyabazooka (Chris Martin).
 
   Available under the GNU Free Documentation License at:
-  http://en.wikipedia.org/wiki/File:Konigsburg_graph.svg
+  <http://en.wikipedia.org/wiki/File:Konigsburg_graph.svg>
 
 Copying
 -------
